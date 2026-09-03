@@ -43,7 +43,7 @@ export const profile = {
 }
 
 export const stats = [
-  { value: 3, suffix: '', label: 'Projets réalisés' },
+  { value: 10+, suffix: '', label: 'Projets réalisés' },
   { value: 15, suffix: '+', label: 'Technologies maîtrisées' },
   { value: 3, suffix: '', label: "Années d'études en info" },
   { value: 100, suffix: '%', label: 'Engagement' },
